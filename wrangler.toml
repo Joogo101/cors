@@ -1,0 +1,6 @@
+name = "cors"
+
+main = "workers.js"
+workers_dev = true
+compatibility_date = "2024-07-14"
+
